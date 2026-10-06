@@ -1,0 +1,10 @@
+{
+    "name": "Dynamate",
+    "description": "A list of Dynamate specific rules",    
+    "rules": [
+        {
+            "id": "AL0719",
+            "action": "None"
+        }
+    ]
+}
